@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to type checking and function parameters. The `bug.ts` file contains code that results in a runtime type error because of a mismatch between the function's expected parameter types and the actual arguments provided. The `bugSolution.ts` file provides a corrected version with improved type handling.
